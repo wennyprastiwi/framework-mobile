@@ -1,6 +1,3 @@
-# framework-mobile
-![job lising app](assets/images/thumbnail.png?raw=true)
-
 # karir_mobile
 
 A new Flutter project.
@@ -17,6 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![thumbnail](https://user-images.githubusercontent.com/47805316/104117735-2f40c980-5356-11eb-8051-a634982fe4b8.png)
+
 
 Sekilas Tentang Flutter
 
